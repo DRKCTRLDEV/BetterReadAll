@@ -43,6 +43,6 @@
 <hr>
 <p align="center">
     <b>Author:</b> 𝓓𝓡𝓚<br>
-    <b>Version:</b> 1.0.7<br>
+    <b>Version:</b> 1.0.9<br>
     <b>Website:</b> <a href="https://github.com/drkctrldev/readallplus">GitHub Repository</a>
 </p>
